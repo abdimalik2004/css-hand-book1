@@ -41,3 +41,7 @@ input:focus {
 p:only-child{
     background-color: black;
 }
+#date{
+ color: black;
+ font-size: 18px;
+}
