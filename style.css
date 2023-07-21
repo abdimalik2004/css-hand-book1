@@ -28,8 +28,9 @@ p:first-child {
 p::first-line {
   color: #ff0000;
   font-variant: small-caps;
-  letter-spacing: 3px
-}
+  letter-spacing: 3px;
+  text-decoration: overline;
+}
 input:focus {
     background-color: yellow;
 }
