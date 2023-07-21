@@ -31,6 +31,10 @@ p::first-line {
   letter-spacing: 3px;
   text-decoration: overline;
 }
+p::first-letter {
+  color: black;
+  font-size: xx-large;
+}
 input:focus {
     background-color: yellow;
 }
