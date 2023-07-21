@@ -30,6 +30,7 @@ p::first-line {
   font-variant: small-caps;
   letter-spacing: 3px;
   text-decoration: overline;
+  text-decoration: underline;
 }
 input:focus {
     background-color: yellow;
