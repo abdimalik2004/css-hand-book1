@@ -33,7 +33,7 @@ p::first-line {
 }
 p::first-letter {
   color: black;
-  font-size: xx-large;
+  font-weight: bolder;
 }
 input:focus {
     background-color: yellow;
