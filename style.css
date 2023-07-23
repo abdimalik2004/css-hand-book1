@@ -45,3 +45,13 @@ p:only-child{
  color: black;
  font-size: 18px;
 }
+div{
+    background: lightblue;
+    background-clip: padding-box;
+    width: 650px;
+    height: 300px;
+    background-attachment: fixed;
+    background-origin: content-box;
+    align-items: center;
+    margin-left: 140px;
+}
