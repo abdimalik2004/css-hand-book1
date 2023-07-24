@@ -26,6 +26,8 @@ p{
     font-family: Helvetica;
     font-weight: 600;
     font-stretch:narrower;
+    font-variant:initial;
+    text-transform: capitalize;
 }
 p:first-child {
     background: yellow;
