@@ -24,7 +24,7 @@ button:active{
 }
 p{
     font-family: Helvetica;
-    font-weight: normal;
+    font-weight: 600;
 }
 p:first-child {
     background: yellow;
