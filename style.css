@@ -23,8 +23,8 @@ button:active{
     background: #ff0000;
 }
 p{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    font-weight: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Helvetica;
+    font-weight: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 p:first-child {
     background: yellow;
