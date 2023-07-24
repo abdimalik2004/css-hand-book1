@@ -29,6 +29,8 @@ p{
     font-variant:initial;
     text-transform: capitalize;
     text-indent: 15px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
 }
 p:first-child {
     background: yellow;
