@@ -69,5 +69,7 @@ div{
     background-position: top right;
 }
 h3{
-border-top-style: solid 2px black;
+    border-top-style: 2px solid black;
+    border-left-style: 2px dashed black;
+   
 }
