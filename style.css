@@ -66,5 +66,8 @@ div{
     background-origin: content-box;
     align-items: center;
     margin-left: 140px;
-    background-position: top right;l
+    background-position: top right;
+}
+h3{
+border-top-style: solid 2px black;
 }
