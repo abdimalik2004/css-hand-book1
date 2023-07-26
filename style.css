@@ -66,11 +66,11 @@ div{
     background-origin: content-box;
     align-items: center;
     margin-left: 140px;
+    
     background-position: top right;
+    border-top: 2px solid black;
+    
 }
 h3{
-    border-top-style: 2px solid black;
-    border-left-style: 2px dashed black;
-    border-bottom-style: 2px double green;
-    border-right-style: 2px groove green;
+    
 }
